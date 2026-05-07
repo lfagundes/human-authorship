@@ -1,4 +1,4 @@
-# Human Authorship Auditabiliy Framework
+# Human Authorship Auditabiliy Middleware
 
 This framework preserves traceability of human authorship in creative code produced with AI assistance, supporting copyright claims where genuine human authorship is maintained.
 
